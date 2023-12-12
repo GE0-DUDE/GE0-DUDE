@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🖥️ Specializing as a front-end developer and content creator.<br>📚 Pursuing a degree in computer science.<br>🤝 Available for collaboration.<br>🌐 Continuously expanding my knowledge.<br>
+🖥️ Specializing as a front-end developer and content creator. <br>🌐 Continuously expanding my knowledge.<br>
 
 
 # 💻 My Skills:
